@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.28803.156
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foundation", "Src\Foundation\Foundation.csproj", "{856C325A-2CC0-422C-B964-1BD10EA14C99}"
 EndProject
@@ -24,6 +24,8 @@ EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Foundation.Demo", "src\Foundation.Demo\Foundation.Demo.csproj", "{08FFAD15-F974-435D-A6D1-8B0C8069594F}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Foundation.Find.Commerce", "src\Foundation.Find.Commerce\Foundation.Find.Commerce.csproj", "{61B070FB-1343-465B-9C3B-14DD8C7722E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foundation.Localization", "src\Foundation.Localization\Foundation.Localization.csproj", "{ACBD590D-C3DF-48DC-9762-12F488E00548}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{61B070FB-1343-465B-9C3B-14DD8C7722E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{61B070FB-1343-465B-9C3B-14DD8C7722E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{61B070FB-1343-465B-9C3B-14DD8C7722E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACBD590D-C3DF-48DC-9762-12F488E00548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACBD590D-C3DF-48DC-9762-12F488E00548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACBD590D-C3DF-48DC-9762-12F488E00548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACBD590D-C3DF-48DC-9762-12F488E00548}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
